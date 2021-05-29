@@ -36,7 +36,6 @@ export function TaskList() {
    
     setTasks(toggleTask)
 
-    // Altere entre `true` ou `false` o campo `isComplete` de uma task com dado ID
   }
 
   function handleRemoveTask(id: number) {
